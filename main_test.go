@@ -10,7 +10,7 @@ import (
 	"sync"
 	"testing"
 
-	. "gitlab.com/abitofhelpinc/producer-consumer/products"
+	. "github.com/abitofhelp/producer-consumer/products"
 	// github.com/stretchr/testify/assert
 	// github.com/stretchr/testify/mock
 	// github.com/stretchr/testify/http

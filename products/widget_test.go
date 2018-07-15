@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	. "gitlab.com/abitofhelpinc/producer-consumer/products"
+	. "github.com/abitofhelp/producer-consumer/products"
 )
 
 func TestNewWidget(t *testing.T) {

@@ -8,9 +8,10 @@ package main
 
 import (
 	"fmt"
-	. "gitlab.com/abitofhelpinc/producer-consumer/products"
 	"strconv"
 	"sync"
+
+	. "github.com/abitofhelp/producer-consumer/products"
 )
 
 const (

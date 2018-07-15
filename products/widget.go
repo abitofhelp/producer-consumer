@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	. "gitlab.com/abitofhelpinc/producer-consumer/common"
+	. "github.com/abitofhelp/go-helpers/string"
 )
 
 // Type Widget is a thing that is branded with a name and its timestamp of creation.s
